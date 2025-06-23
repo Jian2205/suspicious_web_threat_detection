@@ -9,7 +9,6 @@ To detect and analyze suspicious web traffic using unsupervised machine learning
   - Protocol
   - Source IP & Country
   - Ports, Timestamps
-  - WAF Rule Detections (optional)
 
 ## Tools & Libraries
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
